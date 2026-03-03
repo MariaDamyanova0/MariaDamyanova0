@@ -1,8 +1,8 @@
 # Maria Damyanova
 
-Frontend-focused developer with a strong interest in building clean, structured and user-friendly web applications.
+Frontend developer focused on building clean, structured and intuitive web applications.
 
-Currently strengthening my practical experience through real projects and continuous learning.
+With a strong eye for visual detail and interest in user behavior, I aim to create interfaces that are both functional and psychologically intuitive.
 
 ---
 
@@ -16,7 +16,6 @@ Currently strengthening my practical experience through real projects and contin
 ### Backend / Programming
 - Python
 - SQL
-- Basic C++
 
 ### Tools
 - Git
@@ -27,10 +26,10 @@ Currently strengthening my practical experience through real projects and contin
 
 ## 🎯 Current Focus
 
-- Building and deploying frontend projects
+- Developing and deploying frontend applications
 - Improving JavaScript depth
+- Refining UI structure and user experience
 - Expanding backend knowledge with Python
-- Writing clean, modular code
 
 ---
 
