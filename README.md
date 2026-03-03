@@ -1,16 +1,45 @@
-## Hi there 👋
+# Maria Damyanova
 
-<!--
-**MariaDamyanova0/MariaDamyanova0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-focused developer with a strong interest in building clean, structured and user-friendly web applications.
 
-Here are some ideas to get you started:
+Currently strengthening my practical experience through real projects and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Backend / Programming
+- Python
+- SQL
+- Basic C++
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🎯 Current Focus
+
+- Building and deploying frontend projects
+- Improving JavaScript depth
+- Expanding backend knowledge with Python
+- Writing clean, modular code
+
+---
+
+## 🚀 Projects
+
+(Featured projects will be listed here after refinement.)
+
+---
+
+## 📫 Contact
+
+Email: damyanovva@gmail.com
